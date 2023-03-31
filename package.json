@@ -1,0 +1,14 @@
+{
+  "name": "js-cli-task-1",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "notes.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.37.0",
+    "eslint-config-google": "^0.14.0",
+    "prettier": "2.8.7"
+  }
+}
